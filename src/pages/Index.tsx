@@ -27,7 +27,7 @@ const Index = () => {
               <Cloud className="w-8 h-8 text-primary" />
             </div>
             <h1 className="text-4xl font-bold text-foreground tracking-tight">
-              Cloud Notepad
+              Not A "NotePad"
             </h1>
             <p className="text-lg text-muted-foreground max-w-sm mx-auto">
               Your cozy space for thoughts. Enter a unique name to create or open your note.
